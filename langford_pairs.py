@@ -1,4 +1,4 @@
-from itertools import permutations, filterfalse
+from itertools import permutations
 
 K = 5
 
