@@ -1,1 +1,1 @@
-o2ihi
+o2ihi.sh
