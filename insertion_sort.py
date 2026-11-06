@@ -1,5 +1,8 @@
 import numpy as np
 
+# From the "Intro to Python for Computer Science and Data Science" Deitel book
+
+
 def insertion_sort(data):
     for next in range(1, len(data)):
         insert = data[next]
