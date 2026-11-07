@@ -1,6 +1,6 @@
 import numpy as np
 
-# From the "Intro to Python for Computer Science and Data Science" Deitel book
+# Based on example from the "Intro to Python for Computer Science and Data Science" Deitel book
 
 def selection_sort(data):
     for index1 in range(len(data) - 1):
