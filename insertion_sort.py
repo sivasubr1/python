@@ -1,6 +1,6 @@
 import numpy as np
 
-# From the "Intro to Python for Computer Science and Data Science" Deitel book
+# Based on example from the "Intro to Python for Computer Science and Data Science" Deitel book
 
 
 def insertion_sort(data):
